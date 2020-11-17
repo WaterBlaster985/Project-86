@@ -1,0 +1,10 @@
+.CanvasClass{
+    background-image:url(avenger_bg.jpg);
+}
+#SuperheroCanvas
+{
+    border-width:10px; 
+    background-color: blanchedalmond;
+    border-style:ridge;
+}
+
